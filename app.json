@@ -1,0 +1,12 @@
+{
+  "expo":{
+    "name":"PetKit",
+    "slug":"petkit",
+    "version":"1.0.0",
+    "orientation":"portrait",
+    "userInterfaceStyle":"light",
+    "splash":{"backgroundColor":"#f7f7f2"},
+    "android":{"package":"com.petkit.app","adaptiveIcon":{"backgroundColor":"#173f35"}},
+    "plugins":[["expo-notifications",{"color":"#173f35"}]]
+  }
+}
